@@ -6,6 +6,8 @@
 
 [Android主题切换（Theme）实现日夜间功能](https://www.jianshu.com/p/0cd03c878def?open_source=weibo_search)
 
+[安卓皮肤包机制的原理](https://www.jianshu.com/p/0333330d944d)
+
 
 动态加载demo： https://github.com/Ablexq/SkinDemo
 
